@@ -1,0 +1,5 @@
+{
+  "name": "Graph Engine - Algorithmic Design System",
+  "description": "A node-based logic engine for generating and managing complex design tokens, including color scales, accessibility checks, and multi-brand logic.",
+  "requestFramePermissions": []
+}
